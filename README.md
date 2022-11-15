@@ -4,8 +4,8 @@ This project is a responsive demo home page for AIM vision Center, an optometry 
 
 Project features include:
 
--Create a responsive menu with CSS/JavaScript
+* Create a responsive menu with CSS/JavaScript
 
--Add your own transition animation(s) to an element on hover
+* Add your own transition animation(s) to an element on hover
 
--Create a simple hide/show div with CSS
+* Create a simple hide/show div with CSS
