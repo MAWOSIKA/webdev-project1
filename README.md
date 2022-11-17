@@ -9,3 +9,7 @@ Project features include:
 * Add your own transition animation(s) to an element on hover
 
 * Create a simple hide/show div with CSS
+
+* Run PageSpeed Insights from google.com get a score of 60 or better
+
+<img width="1124" alt="image" src="https://user-images.githubusercontent.com/105680217/202348326-41edd44f-d8f5-4a07-9288-1af2d46187de.png">
